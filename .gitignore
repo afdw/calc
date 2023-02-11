@@ -111,3 +111,12 @@ core*
 *.[oa]
 .*.swp
 *,v
+
+/.static
+/calc-static
+/calc-static.gdb
+/install/
+/sample_many-static
+/sample_many-static.gdb
+/sample_rand-static
+/sample_rand-static.gdb
